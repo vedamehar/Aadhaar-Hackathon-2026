@@ -1,6 +1,6 @@
 <div align="center">
   
-### UIDAI Hackathon 2026 Analytics
+# UIDAI Hackathon 2026 Analytics
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?logo=pandas)
