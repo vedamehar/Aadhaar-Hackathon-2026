@@ -1,7 +1,5 @@
 <div align="center">
-
-# 🇮🇳 Aadhaar Drishti
-
+  
 ### UIDAI Hackathon 2026 Analytics
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
