@@ -1,6 +1,9 @@
-# 🇮🇳 Aadhaar Drishti  
-### UIDAI Hackathon 2026 — Analytics Track  
-**Unlocking Societal Trends in Aadhaar Enrolment and Updates**
+# Aadhaar Lifecycle Management: Predictive Analytics & Service Optimization
+
+**Team:** ByteByUID  
+**Event:** UIDAI Data Hackathon 2026  
+**Date:** January 20, 2026  
+**Repository:** [https://github.com/vedamehar/Aadhaar-Hackathon-2026](https://github.com/vedamehar/Aadhaar-Hackathon-2026)
 
 ---
 
